@@ -4,3 +4,5 @@ for (let a = 0; a < array.size; a++) {
     console.log(a)
 
 }
+
+// added more feature to know batter the codding
