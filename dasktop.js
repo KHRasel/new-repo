@@ -6,3 +6,4 @@ for (let a = 0; a < array.size; a++) {
 }
 
 // added more feature to know batter the codding
+// tring to add to the githum
